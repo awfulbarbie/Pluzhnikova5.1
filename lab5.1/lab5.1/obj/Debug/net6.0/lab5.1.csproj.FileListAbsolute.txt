@@ -1,0 +1,15 @@
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\bin\Debug\net6.0\lab5.1.exe
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\bin\Debug\net6.0\lab5.1.deps.json
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\bin\Debug\net6.0\lab5.1.runtimeconfig.json
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\bin\Debug\net6.0\lab5.1.dll
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\bin\Debug\net6.0\lab5.1.pdb
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\lab5.1.csproj.AssemblyReference.cache
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\lab5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\lab5.1.AssemblyInfoInputs.cache
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\lab5.1.AssemblyInfo.cs
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\lab5.1.csproj.CoreCompileInputs.cache
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\lab5.1.dll
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\refint\lab5.1.dll
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\lab5.1.pdb
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\lab5.1.genruntimeconfig.cache
+D:\Учебная практика\Задание 5\lab5.1\lab5.1\obj\Debug\net6.0\ref\lab5.1.dll
